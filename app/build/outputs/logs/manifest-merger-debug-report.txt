@@ -1,0 +1,583 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ccd7095399b3a51088b8fc8016a55b3e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/5797853715be7307543c81e33c581c1f/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/f736bdda9326c39f54bfcab5cc38bfe4/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0ebca513279daf01e6222bfb62aae219/transformed/jetified-leakcanary-android-2.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:Library] /Users/kongyue/Coursework/Value Your Time QSP8APP/Library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/68f8f93269c7aa0ee199c6c3e73708ee/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/f1e513cb63d430d33900d711e5b6a57b/transformed/jetified-lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/4dd8172f07114ad1b292a881e1ca740a/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/54b38390d612fb2e8dd696970ef1dc6a/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:17:1-102:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/9e3c360bb53ef818d762e234a1fdf3ee/transformed/jetified-lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0-alpha02] /Users/kongyue/.gradle/caches/transforms-3/9df1102fed67d9a4232578c912f8a166/transformed/material-1.6.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kongyue/.gradle/caches/transforms-3/1a5c6a659f6fccd4b05a0eb000079047/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/d1bcbb64533143b17967b046e690494d/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0f7e05a98979d9998eaa8f58c5e2720f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/65961156d32c0d502358ccda58c98cc8/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/6f04c59a69b8adf833e7a47de2ad4e93/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ee69dcc003cdf7c61b1501bf98042b08/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kongyue/.gradle/caches/transforms-3/48beae1de1949d51a585ee9e80953c90/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/kongyue/.gradle/caches/transforms-3/17c45318301070f3b57fdec538e3b740/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/6702d852b720bfae788d7a7a1d626596/transformed/jetified-lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/24495bff556b1ebb2ae75b207a8f3670/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dfc78d74bb0c866f4cc54c63c8a48cd3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a5c9c9bdca715513f8d57f13a01b58fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/2e664682bb1d2ff07495553cfa334f02/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/95e004e1bc8768f8c1b56f669ec19f1c/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/9425f321f0b745715c5073bcb2f1a517/transformed/jetified-leakcanary-object-watcher-android-androidx-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/389d7419ab2afa97b8c7697dca9b80b9/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/694f7a776c9dc46414f05a22cf8f545e/transformed/jetified-leakcanary-object-watcher-android-core-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0bda0b9d720ba1ed1914a4beeb839f4f/transformed/jetified-plumber-android-core-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/b6fa62b4fe592bfc04b175ea3a915fe6/transformed/jetified-leakcanary-android-utils-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.curtains:curtains:1.2.3] /Users/kongyue/.gradle/caches/transforms-3/b5ab1a793362ef5d20a4091352157bcf/transformed/jetified-curtains-1.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kongyue/.gradle/caches/transforms-3/77fd767a8c5ce65d7903b6eab438c802/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/5db07d81124e22358445652e5601f65d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.tencent:mmkv:1.2.12] /Users/kongyue/.gradle/caches/transforms-3/d83787b021bee4dd25fad0425555a6cc/transformed/jetified-mmkv-1.2.12/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/9994372dd1d6ac69aa73e9f6a0b1867b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dc03f74105b8bc673336ebd34cc3c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/d9e7ef2ad080b1155353b7dfa828e2b5/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/00df82737efe6ac72b9e1c87b16c6501/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/b224e8ef0dd659a07d33e8750b5a3a94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/2333e7a93c3a115c7d33c795ac5ebc39/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/2ac564984ceb5200f42f8ac6c4abdf80/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/165958a231e8e595dad9f5752eccd104/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/57ea70bff25623048fdd2c96b8fb88bd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a79a1f58897397dfec9404ce03710599/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/65b4456d3a85f93bd3101e00ca81d48c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/769c8ec614496f85a7909d56aa078494/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/5d5ee8755fe22a6fe4afd2028717d5a9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ddadbf75a0fc4c421092b9efaeceb74c/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/e836c6fafdf56fe2fabec66af576a30f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/7d36eec393988607f1bc6759468adef5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/1d330967d460859cd8ee829b1e02bf66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/00335888bd3dc8bc71ba85f8812a7cbf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/8c3bad0dda8f977247c35adf503336ce/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/da750ec14b1f243f08b14c508477fa2e/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/5c74cb945c0cd77a8e2e361bac8eb8a8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0aa762a443426b6a3d53f309f93552d0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d7aa79e16b120a47943c486367aeebd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d8946fc44685aa1b0c1adbe6c61d5956/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/aee7157cc8df0bcb46393735b0c94f12/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/32919bbe9ae1666998137d8535aa20a8/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kongyue/.gradle/caches/transforms-3/4a4daa7c1a2ce59ef84b38dcc0110e2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/37b6d7dd7cc6cb86c5d4a9f35fbc3cf2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ed03e694a38165c187f1de4194ff32d7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/425166201a37416f54b101cf118b524c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/c8a583c26b8b7d1aeba652afdd55b3b8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/943b6d7e2c74e0d4a5b3d87c8d4377f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+	package
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:11:5-67:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:28:5-100:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:28:5-100:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.material:material:1.6.0-alpha02] /Users/kongyue/.gradle/caches/transforms-3/9df1102fed67d9a4232578c912f8a166/transformed/material-1.6.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.6.0-alpha02] /Users/kongyue/.gradle/caches/transforms-3/9df1102fed67d9a4232578c912f8a166/transformed/material-1.6.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kongyue/.gradle/caches/transforms-3/1a5c6a659f6fccd4b05a0eb000079047/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kongyue/.gradle/caches/transforms-3/1a5c6a659f6fccd4b05a0eb000079047/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/65961156d32c0d502358ccda58c98cc8/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/65961156d32c0d502358ccda58c98cc8/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/6f04c59a69b8adf833e7a47de2ad4e93/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/6f04c59a69b8adf833e7a47de2ad4e93/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/5d5ee8755fe22a6fe4afd2028717d5a9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/5d5ee8755fe22a6fe4afd2028717d5a9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/8c3bad0dda8f977247c35adf503336ce/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/8c3bad0dda8f977247c35adf503336ce/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:12:9-69
+activity#com.example.qsp8app.view.activity.DarkThemeSettingActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:19:9-95
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:19:19-92
+activity#com.example.qsp8app.view.activity.ChangeAvatarActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:20:9-91
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:20:19-88
+activity#com.example.qsp8app.view.activity.LockScreenSettingActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:21:9-96
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:21:19-93
+activity#com.example.qsp8app.view.activity.EditSortNoteActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:22:9-91
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:22:19-88
+activity#com.example.qsp8app.view.activity.BackupDataActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:23:9-89
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:23:19-86
+activity#com.example.qsp8app.view.activity.EditNoteAttributeActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:24:9-96
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:24:19-93
+activity#com.example.qsp8app.view.activity.TimeRemindActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:25:9-89
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:25:19-86
+activity#com.example.qsp8app.view.activity.AddSortNoteActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:26:9-90
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:26:19-87
+activity#com.example.qsp8app.view.activity.AddNoteActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:27:9-86
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:27:19-83
+activity#com.example.qsp8app.view.activity.DetailActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:28:9-85
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:28:19-82
+activity#com.example.qsp8app.view.activity.SortNoteActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:29:19-84
+activity#com.example.qsp8app.view.activity.HomeActivity
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:launchMode
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:30:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:grantUriPermissions
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:44:13-47
+	android:authorities
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:42:13-67
+	android:exported
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:41:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:45:13-47:54
+	android:resource
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:47:17-51
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:46:17-67
+meta-data#preloaded_fonts
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:50:9-52:57
+	android:resource
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:51:13-43
+service#com.example.qsp8app.service.AlertService
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:54:9-57:40
+	android:process
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:57:13-37
+	android:exported
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:55:13-68
+receiver#com.example.qsp8app.service.AlertBootReceiver
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:59:9-66:20
+	android:enabled
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:60:13-73
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:63:13-65:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:64:17-79
+	android:name
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:64:25-76
+uses-sdk
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ccd7095399b3a51088b8fc8016a55b3e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ccd7095399b3a51088b8fc8016a55b3e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/5797853715be7307543c81e33c581c1f/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/5797853715be7307543c81e33c581c1f/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/f736bdda9326c39f54bfcab5cc38bfe4/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/f736bdda9326c39f54bfcab5cc38bfe4/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0ebca513279daf01e6222bfb62aae219/transformed/jetified-leakcanary-android-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0ebca513279daf01e6222bfb62aae219/transformed/jetified-leakcanary-android-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [:Library] /Users/kongyue/Coursework/Value Your Time QSP8APP/Library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:Library] /Users/kongyue/Coursework/Value Your Time QSP8APP/Library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/68f8f93269c7aa0ee199c6c3e73708ee/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/68f8f93269c7aa0ee199c6c3e73708ee/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/f1e513cb63d430d33900d711e5b6a57b/transformed/jetified-lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/f1e513cb63d430d33900d711e5b6a57b/transformed/jetified-lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/4dd8172f07114ad1b292a881e1ca740a/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/4dd8172f07114ad1b292a881e1ca740a/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/54b38390d612fb2e8dd696970ef1dc6a/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/54b38390d612fb2e8dd696970ef1dc6a/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/9e3c360bb53ef818d762e234a1fdf3ee/transformed/jetified-lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/9e3c360bb53ef818d762e234a1fdf3ee/transformed/jetified-lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0-alpha02] /Users/kongyue/.gradle/caches/transforms-3/9df1102fed67d9a4232578c912f8a166/transformed/material-1.6.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.6.0-alpha02] /Users/kongyue/.gradle/caches/transforms-3/9df1102fed67d9a4232578c912f8a166/transformed/material-1.6.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kongyue/.gradle/caches/transforms-3/1a5c6a659f6fccd4b05a0eb000079047/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kongyue/.gradle/caches/transforms-3/1a5c6a659f6fccd4b05a0eb000079047/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/d1bcbb64533143b17967b046e690494d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/d1bcbb64533143b17967b046e690494d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0f7e05a98979d9998eaa8f58c5e2720f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0f7e05a98979d9998eaa8f58c5e2720f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/65961156d32c0d502358ccda58c98cc8/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/65961156d32c0d502358ccda58c98cc8/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/6f04c59a69b8adf833e7a47de2ad4e93/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/6f04c59a69b8adf833e7a47de2ad4e93/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ee69dcc003cdf7c61b1501bf98042b08/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ee69dcc003cdf7c61b1501bf98042b08/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kongyue/.gradle/caches/transforms-3/48beae1de1949d51a585ee9e80953c90/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kongyue/.gradle/caches/transforms-3/48beae1de1949d51a585ee9e80953c90/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kongyue/.gradle/caches/transforms-3/17c45318301070f3b57fdec538e3b740/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kongyue/.gradle/caches/transforms-3/17c45318301070f3b57fdec538e3b740/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/6702d852b720bfae788d7a7a1d626596/transformed/jetified-lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/6702d852b720bfae788d7a7a1d626596/transformed/jetified-lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/24495bff556b1ebb2ae75b207a8f3670/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/24495bff556b1ebb2ae75b207a8f3670/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dfc78d74bb0c866f4cc54c63c8a48cd3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dfc78d74bb0c866f4cc54c63c8a48cd3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a5c9c9bdca715513f8d57f13a01b58fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a5c9c9bdca715513f8d57f13a01b58fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/2e664682bb1d2ff07495553cfa334f02/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/2e664682bb1d2ff07495553cfa334f02/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/95e004e1bc8768f8c1b56f669ec19f1c/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/95e004e1bc8768f8c1b56f669ec19f1c/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/9425f321f0b745715c5073bcb2f1a517/transformed/jetified-leakcanary-object-watcher-android-androidx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/9425f321f0b745715c5073bcb2f1a517/transformed/jetified-leakcanary-object-watcher-android-androidx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/389d7419ab2afa97b8c7697dca9b80b9/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/389d7419ab2afa97b8c7697dca9b80b9/transformed/jetified-leakcanary-object-watcher-android-support-fragments-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/694f7a776c9dc46414f05a22cf8f545e/transformed/jetified-leakcanary-object-watcher-android-core-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/694f7a776c9dc46414f05a22cf8f545e/transformed/jetified-leakcanary-object-watcher-android-core-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0bda0b9d720ba1ed1914a4beeb839f4f/transformed/jetified-plumber-android-core-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/0bda0b9d720ba1ed1914a4beeb839f4f/transformed/jetified-plumber-android-core-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/b6fa62b4fe592bfc04b175ea3a915fe6/transformed/jetified-leakcanary-android-utils-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/b6fa62b4fe592bfc04b175ea3a915fe6/transformed/jetified-leakcanary-android-utils-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.curtains:curtains:1.2.3] /Users/kongyue/.gradle/caches/transforms-3/b5ab1a793362ef5d20a4091352157bcf/transformed/jetified-curtains-1.2.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.curtains:curtains:1.2.3] /Users/kongyue/.gradle/caches/transforms-3/b5ab1a793362ef5d20a4091352157bcf/transformed/jetified-curtains-1.2.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kongyue/.gradle/caches/transforms-3/77fd767a8c5ce65d7903b6eab438c802/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kongyue/.gradle/caches/transforms-3/77fd767a8c5ce65d7903b6eab438c802/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/5db07d81124e22358445652e5601f65d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/5db07d81124e22358445652e5601f65d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.tencent:mmkv:1.2.12] /Users/kongyue/.gradle/caches/transforms-3/d83787b021bee4dd25fad0425555a6cc/transformed/jetified-mmkv-1.2.12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent:mmkv:1.2.12] /Users/kongyue/.gradle/caches/transforms-3/d83787b021bee4dd25fad0425555a6cc/transformed/jetified-mmkv-1.2.12/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/9994372dd1d6ac69aa73e9f6a0b1867b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kongyue/.gradle/caches/transforms-3/9994372dd1d6ac69aa73e9f6a0b1867b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dc03f74105b8bc673336ebd34cc3c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/dc03f74105b8bc673336ebd34cc3c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/d9e7ef2ad080b1155353b7dfa828e2b5/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/d9e7ef2ad080b1155353b7dfa828e2b5/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/00df82737efe6ac72b9e1c87b16c6501/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/00df82737efe6ac72b9e1c87b16c6501/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/b224e8ef0dd659a07d33e8750b5a3a94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/b224e8ef0dd659a07d33e8750b5a3a94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/2333e7a93c3a115c7d33c795ac5ebc39/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/2333e7a93c3a115c7d33c795ac5ebc39/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/2ac564984ceb5200f42f8ac6c4abdf80/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/2ac564984ceb5200f42f8ac6c4abdf80/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/165958a231e8e595dad9f5752eccd104/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/165958a231e8e595dad9f5752eccd104/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/57ea70bff25623048fdd2c96b8fb88bd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/57ea70bff25623048fdd2c96b8fb88bd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a79a1f58897397dfec9404ce03710599/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/a79a1f58897397dfec9404ce03710599/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/65b4456d3a85f93bd3101e00ca81d48c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/65b4456d3a85f93bd3101e00ca81d48c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/769c8ec614496f85a7909d56aa078494/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/769c8ec614496f85a7909d56aa078494/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/5d5ee8755fe22a6fe4afd2028717d5a9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kongyue/.gradle/caches/transforms-3/5d5ee8755fe22a6fe4afd2028717d5a9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ddadbf75a0fc4c421092b9efaeceb74c/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/kongyue/.gradle/caches/transforms-3/ddadbf75a0fc4c421092b9efaeceb74c/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/e836c6fafdf56fe2fabec66af576a30f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/e836c6fafdf56fe2fabec66af576a30f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/7d36eec393988607f1bc6759468adef5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/7d36eec393988607f1bc6759468adef5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/1d330967d460859cd8ee829b1e02bf66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/1d330967d460859cd8ee829b1e02bf66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/00335888bd3dc8bc71ba85f8812a7cbf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/00335888bd3dc8bc71ba85f8812a7cbf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/8c3bad0dda8f977247c35adf503336ce/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kongyue/.gradle/caches/transforms-3/8c3bad0dda8f977247c35adf503336ce/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/da750ec14b1f243f08b14c508477fa2e/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/kongyue/.gradle/caches/transforms-3/da750ec14b1f243f08b14c508477fa2e/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/5c74cb945c0cd77a8e2e361bac8eb8a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/5c74cb945c0cd77a8e2e361bac8eb8a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0aa762a443426b6a3d53f309f93552d0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0aa762a443426b6a3d53f309f93552d0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d7aa79e16b120a47943c486367aeebd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d7aa79e16b120a47943c486367aeebd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d8946fc44685aa1b0c1adbe6c61d5956/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kongyue/.gradle/caches/transforms-3/d8946fc44685aa1b0c1adbe6c61d5956/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/aee7157cc8df0bcb46393735b0c94f12/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/aee7157cc8df0bcb46393735b0c94f12/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/32919bbe9ae1666998137d8535aa20a8/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/32919bbe9ae1666998137d8535aa20a8/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kongyue/.gradle/caches/transforms-3/4a4daa7c1a2ce59ef84b38dcc0110e2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kongyue/.gradle/caches/transforms-3/4a4daa7c1a2ce59ef84b38dcc0110e2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/37b6d7dd7cc6cb86c5d4a9f35fbc3cf2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/37b6d7dd7cc6cb86c5d4a9f35fbc3cf2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ed03e694a38165c187f1de4194ff32d7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/ed03e694a38165c187f1de4194ff32d7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/425166201a37416f54b101cf118b524c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/425166201a37416f54b101cf118b524c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/c8a583c26b8b7d1aeba652afdd55b3b8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/c8a583c26b8b7d1aeba652afdd55b3b8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/943b6d7e2c74e0d4a5b3d87c8d4377f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kongyue/.gradle/caches/transforms-3/943b6d7e2c74e0d4a5b3d87c8d4377f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:30:13-70
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:39:9-70:20
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:43:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:41:13-36
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:42:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:45:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:44:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:40:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\.hprof+data:pathPattern:.*\\.hprof+data:scheme:content+data:scheme:file
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:46:13-69:29
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:46:28-81
+action#android.intent.action.VIEW
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:50:27-75
+data
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+	android:scheme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:23-44
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:72:9-89:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:75:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:78:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:76:13-36
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:79:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:77:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:74:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:81:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:80:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:73:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:82:13-88:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:87:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:87:27-83
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:91:9-97:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:95:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:93:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:94:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:97:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:96:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:92:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:99:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:99:19-74
+provider#leakcanary.internal.MainProcessAppWatcherInstaller
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:9:13-78
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:9:13-64
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/0ffe7464915b043f45b4ab846a6bae42/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

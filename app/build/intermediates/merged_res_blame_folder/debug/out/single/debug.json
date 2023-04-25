@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_choose_down.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/choose_down.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_delete_label.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/delete_label.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_list_null_bg.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/list_null_bg.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_earth.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/earth.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort_note_choose_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort_note_choose_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_icon_list_item.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/icon_list_item.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_bg.webp.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/bg.webp"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_rocket.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/rocket.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_avater.jpg.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/avater.jpg"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_activity_detail_menu.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/activity_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_header_layout_sort_note_list_item.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/header_layout_sort_note_list_item.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_remind.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/remind.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_diamond.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/diamond.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_computer.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/computer.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_sort_note_list_item.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/sort_note_list_item.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_add_white.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/add_white.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_happy.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/happy.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort_note_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort_note_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_dataup.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/dataup.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_cactus.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/cactus.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_note_list_fragment_toolbar.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/note_list_fragment_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_sort.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/sort.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_top_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/top_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_share.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/share.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_moon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/moon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_mine_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/mine_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_backup_data.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_backup_data.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_home_navigation_view.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/home_navigation_view.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_day.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/day.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable-night_bg.webp.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable-night/bg.webp"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_time_remind.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_time_remind.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_candidate_black.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/candidate_black.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_gift.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/gift.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_rectangle_tv_bg.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/rectangle_tv_bg.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_sort_note_card_item.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/sort_note_card_item.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_end_time.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/end_time.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_card_item_grid.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/card_item_grid.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_anniverity_color.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/anniverity_color.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_note_date.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/note_date.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_umbrella.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/umbrella.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/font_montserrat_bold.ttf.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_header_layout.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/header_layout.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_edit.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/edit.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/xml_file_paths.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_lock_screen.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/lock_screen.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_fragment_note_sort.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/fragment_note_sort.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_fragment_setting.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_dark_theme_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/dark_theme_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_to_top.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/to_top.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_to_top.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/to_top.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_check.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/check.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_menu.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_add_sort_note.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/add_sort_note.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_life_color.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/life_color.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_sort_note_choose_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/sort_note_choose_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_circle_tv_bg.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/circle_tv_bg.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_backup_picture.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/backup_picture.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_time.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/time.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_lock_screen.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/lock_screen.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_card_item_linear.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/card_item_linear.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_clock.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/clock.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_edit_note_attribute.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_edit_note_attribute.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_sort_note.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/sort_note.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort_note_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort_note_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_flamingo.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/flamingo.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_music.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/music.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_toolbar_sure_menu.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/toolbar_sure_menu.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_header_count_bg.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/header_count_bg.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_setting_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/setting_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_note_text.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/note_text.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_dataup.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/dataup.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_note_text.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/note_text.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_cut_picture_white.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/cut_picture_white.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_marigold.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/marigold.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_add_note.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort_note.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort_note.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_mine_black.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/mine_black.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_change_avatar.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_change_avatar.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_delete_label.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/delete_label.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_item_pressed_state.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/item_pressed_state.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_backup_picture.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/backup_picture.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_owl.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/owl.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_activity_setting_lock_screen_menu.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/activity_setting_lock_screen_menu.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_delete_waring.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/delete_waring.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_back.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/back.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_sort_note_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/sort_note_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_sort_note_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/sort_note_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/color_bottom_navigation_view_color.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/color/bottom_navigation_view_color.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_grid_white.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/grid_white.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_sort_note.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_sort_note.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/font_montserrat_medium.ttf.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_setting.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/setting.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_day_theme_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/day_theme_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_cat.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/cat.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_work_color.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/work_color.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_yellow_star.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/yellow_star.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_edit_sort_note.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_edit_sort_note.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/drawable_header_item_pressed_state.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/drawable/header_item_pressed_state.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_right.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/right.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_day_theme_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/day_theme_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_note_date.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/note_date.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_fragment_setting_sort_style_menu.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/fragment_setting_sort_style_menu.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_add_sort_note.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_add_sort_note.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_end_time.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/end_time.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_mine_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/mine_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_detail.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_fragment_note_list.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_dark_theme_icon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/dark_theme_icon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_moon.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/moon.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_lock_screen_setting.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_lock_screen_setting.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_setting_gray.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/setting_gray.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_dark_theme_setting.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_dark_theme_setting.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_note_attribute_layout.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/note_attribute_layout.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_all_color.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/all_color.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_fragment_mine.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/menu_sort_note_fragment_toolbar.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/menu/sort_note_fragment_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_menu_black.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/menu_black.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_cake.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/cake.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_sort_white.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/sort_white.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_delete_waring.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/delete_waring.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/layout_sort_note_attribute_layout.xml.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/layout/sort_note_attribute_layout.xml"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_love_heart.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-xxxhdpi/love_heart.png"
+    },
+    {
+        "merged": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/build/intermediates/merged_res/debug/mipmap-night-xxxhdpi_clock.png.flat",
+        "source": "/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/res/mipmap-night-xxxhdpi/clock.png"
+    }
+]

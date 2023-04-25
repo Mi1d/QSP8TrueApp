@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <import type="com.example.qsp8app.util.TimeManager"/>
+        <variable
+            name="label"
+            type="com.example.qsp8app.model.bean.Label" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:padding="6dp"
+        >
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:id="@+id/label_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="@color/note_list_future_dark"
+                    android:fontFamily="@font/montserrat_medium"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+                    android:text="@{label.text}"
+                    android:textColor="#fff"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/label_day"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/label_text"
+                    android:background="@color/grid_item_color"
+                    android:fontFamily="@font/montserrat_medium"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp"
+                    android:text="@{String.valueOf(Math.abs(label.day))}"
+                    android:textColor="@color/color_bold"
+                    android:textSize="40sp" />
+
+                <TextView
+                    android:id="@+id/label_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/label_day"
+                    android:background="@color/grid_item_day_color"
+                    android:fontFamily="@font/montserrat_medium"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+                    android:text="@{label.getDate(label.targetDate)}"
+                    android:textColor="@color/color_normal"
+                    android:textSize="12sp" />
+
+
+
+            </RelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+
+
+    </LinearLayout>
+</layout>
+
+
+
+

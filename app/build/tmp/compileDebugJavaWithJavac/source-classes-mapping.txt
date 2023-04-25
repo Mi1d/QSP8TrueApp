@@ -1,0 +1,145 @@
+com/example/qsp8app/databinding/HeaderLayoutSortNoteListItemBindingImpl.java
+ com.example.qsp8app.databinding.HeaderLayoutSortNoteListItemBindingImpl
+com/example/qsp8app/model/db/LabelDao_Impl.java
+ com.example.qsp8app.model.db.LabelDao_Impl
+ com.example.qsp8app.model.db.LabelDao_Impl$1
+ com.example.qsp8app.model.db.LabelDao_Impl$2
+ com.example.qsp8app.model.db.LabelDao_Impl$3
+ com.example.qsp8app.model.db.LabelDao_Impl$4
+ com.example.qsp8app.model.db.LabelDao_Impl$5
+ com.example.qsp8app.model.db.LabelDao_Impl$6
+ com.example.qsp8app.model.db.LabelDao_Impl$7
+ com.example.qsp8app.model.db.LabelDao_Impl$8
+com/example/qsp8app/databinding/ActivityLockScreenSettingBinding.java
+ com.example.qsp8app.databinding.ActivityLockScreenSettingBinding
+com/example/qsp8app/databinding/FragmentNoteListBindingImpl.java
+ com.example.qsp8app.databinding.FragmentNoteListBindingImpl
+com/example/qsp8app/databinding/ActivityEditNoteAttributeBindingImpl.java
+ com.example.qsp8app.databinding.ActivityEditNoteAttributeBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/qsp8app/databinding/ActivityLockScreenSettingBindingImpl.java
+ com.example.qsp8app.databinding.ActivityLockScreenSettingBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/qsp8app/databinding/ActivityDarkThemeSettingBinding.java
+ com.example.qsp8app.databinding.ActivityDarkThemeSettingBinding
+com/example/qsp8app/databinding/HeaderLayoutBindingImpl.java
+ com.example.qsp8app.databinding.HeaderLayoutBindingImpl
+com/example/qsp8app/databinding/ActivityTimeRemindBinding.java
+ com.example.qsp8app.databinding.ActivityTimeRemindBinding
+com/example/qsp8app/databinding/CardItemGridBinding.java
+ com.example.qsp8app.databinding.CardItemGridBinding
+com/example/qsp8app/databinding/ActivityChangeAvatarBindingImpl.java
+ com.example.qsp8app.databinding.ActivityChangeAvatarBindingImpl
+com/example/qsp8app/databinding/FragmentSettingBindingImpl.java
+ com.example.qsp8app.databinding.FragmentSettingBindingImpl
+com/example/qsp8app/databinding/CardItemGridBindingImpl.java
+ com.example.qsp8app.databinding.CardItemGridBindingImpl
+com/example/qsp8app/BR.java
+ com.example.qsp8app.BR
+com/example/qsp8app/databinding/ActivityDetailBindingImpl.java
+ com.example.qsp8app.databinding.ActivityDetailBindingImpl
+com/example/qsp8app/databinding/HeaderLayoutBinding.java
+ com.example.qsp8app.databinding.HeaderLayoutBinding
+com/example/qsp8app/databinding/ActivityEditNoteAttributeBinding.java
+ com.example.qsp8app.databinding.ActivityEditNoteAttributeBinding
+com/example/qsp8app/databinding/ActivityHomeBindingImpl.java
+ com.example.qsp8app.databinding.ActivityHomeBindingImpl
+com/example/qsp8app/databinding/ActivityAddSortNoteBinding.java
+ com.example.qsp8app.databinding.ActivityAddSortNoteBinding
+com/example/qsp8app/databinding/ActivityDarkThemeSettingBindingImpl.java
+ com.example.qsp8app.databinding.ActivityDarkThemeSettingBindingImpl
+com/example/qsp8app/databinding/FragmentNoteSortBindingImpl.java
+ com.example.qsp8app.databinding.FragmentNoteSortBindingImpl
+com/example/qsp8app/DataBinderMapperImpl.java
+ com.example.qsp8app.DataBinderMapperImpl
+ com.example.qsp8app.DataBinderMapperImpl$InnerBrLookup
+ com.example.qsp8app.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/qsp8app/databinding/SortNoteListItemBindingImpl.java
+ com.example.qsp8app.databinding.SortNoteListItemBindingImpl
+com/example/qsp8app/databinding/ActivityHomeBinding.java
+ com.example.qsp8app.databinding.ActivityHomeBinding
+com/example/qsp8app/databinding/FragmentSettingBinding.java
+ com.example.qsp8app.databinding.FragmentSettingBinding
+com/example/qsp8app/databinding/ActivityAddNoteBindingImpl.java
+ com.example.qsp8app.databinding.ActivityAddNoteBindingImpl
+com/example/qsp8app/databinding/FragmentMineBinding.java
+ com.example.qsp8app.databinding.FragmentMineBinding
+com/example/qsp8app/databinding/CardItemLinearBinding.java
+ com.example.qsp8app.databinding.CardItemLinearBinding
+com/example/qsp8app/databinding/SortNoteListItemBinding.java
+ com.example.qsp8app.databinding.SortNoteListItemBinding
+com/example/qsp8app/databinding/HeaderLayoutSortNoteListItemBinding.java
+ com.example.qsp8app.databinding.HeaderLayoutSortNoteListItemBinding
+com/example/qsp8app/databinding/ActivityEditSortNoteBindingImpl.java
+ com.example.qsp8app.databinding.ActivityEditSortNoteBindingImpl
+com/example/qsp8app/databinding/IconListItemBindingImpl.java
+ com.example.qsp8app.databinding.IconListItemBindingImpl
+com/example/qsp8app/databinding/SortNoteAttributeLayoutBinding.java
+ com.example.qsp8app.databinding.SortNoteAttributeLayoutBinding
+com/example/qsp8app/databinding/ActivityAddNoteBinding.java
+ com.example.qsp8app.databinding.ActivityAddNoteBinding
+com/example/qsp8app/databinding/ActivityBackupDataBindingImpl.java
+ com.example.qsp8app.databinding.ActivityBackupDataBindingImpl
+com/example/qsp8app/databinding/ActivityEditSortNoteBinding.java
+ com.example.qsp8app.databinding.ActivityEditSortNoteBinding
+com/example/qsp8app/databinding/FragmentNoteListBinding.java
+ com.example.qsp8app.databinding.FragmentNoteListBinding
+com/example/qsp8app/databinding/ActivityDetailBinding.java
+ com.example.qsp8app.databinding.ActivityDetailBinding
+com/example/qsp8app/databinding/ActivityBackupDataBinding.java
+ com.example.qsp8app.databinding.ActivityBackupDataBinding
+com/example/qsp8app/databinding/ActivityTimeRemindBindingImpl.java
+ com.example.qsp8app.databinding.ActivityTimeRemindBindingImpl
+com/example/qsp8app/databinding/IconListItemBinding.java
+ com.example.qsp8app.databinding.IconListItemBinding
+com/example/qsp8app/databinding/NoteAttributeLayoutBindingImpl.java
+ com.example.qsp8app.databinding.NoteAttributeLayoutBindingImpl
+com/example/qsp8app/databinding/ActivitySortNoteBinding.java
+ com.example.qsp8app.databinding.ActivitySortNoteBinding
+com/example/qsp8app/databinding/ActivitySortNoteBindingImpl.java
+ com.example.qsp8app.databinding.ActivitySortNoteBindingImpl
+com/example/qsp8app/databinding/ActivityChangeAvatarBinding.java
+ com.example.qsp8app.databinding.ActivityChangeAvatarBinding
+com/example/qsp8app/databinding/FragmentNoteSortBinding.java
+ com.example.qsp8app.databinding.FragmentNoteSortBinding
+com/example/qsp8app/databinding/NoteAttributeLayoutBinding.java
+ com.example.qsp8app.databinding.NoteAttributeLayoutBinding
+com/example/qsp8app/databinding/FragmentMineBindingImpl.java
+ com.example.qsp8app.databinding.FragmentMineBindingImpl
+com/example/qsp8app/databinding/CardItemLinearBindingImpl.java
+ com.example.qsp8app.databinding.CardItemLinearBindingImpl
+com/example/qsp8app/view/view/SwipeMenuLayout.java
+ com.example.qsp8app.view.view.SwipeMenuLayout
+ com.example.qsp8app.view.view.SwipeMenuLayout$1
+ com.example.qsp8app.view.view.SwipeMenuLayout$2
+ com.example.qsp8app.view.view.SwipeMenuLayout$3
+ com.example.qsp8app.view.view.SwipeMenuLayout$4
+com/example/qsp8app/BuildConfig.java
+ com.example.qsp8app.BuildConfig
+com/example/qsp8app/databinding/SortNoteCardItemBindingImpl.java
+ com.example.qsp8app.databinding.SortNoteCardItemBindingImpl
+com/example/qsp8app/util/JumpToStartUpUtil.java
+ com.example.qsp8app.util.JumpToStartUpUtil
+ com.example.qsp8app.util.JumpToStartUpUtil$1
+com/example/qsp8app/model/db/DataBase_Impl.java
+ com.example.qsp8app.model.db.DataBase_Impl
+ com.example.qsp8app.model.db.DataBase_Impl$1
+com/example/qsp8app/DataBindingTriggerClass.java
+ com.example.qsp8app.DataBindingTriggerClass
+com/example/qsp8app/databinding/SortNoteAttributeLayoutBindingImpl.java
+ com.example.qsp8app.databinding.SortNoteAttributeLayoutBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/qsp8app/databinding/SortNoteCardItemBinding.java
+ com.example.qsp8app.databinding.SortNoteCardItemBinding
+com/example/qsp8app/databinding/ActivityAddSortNoteBindingImpl.java
+ com.example.qsp8app.databinding.ActivityAddSortNoteBindingImpl
+com/example/qsp8app/model/db/SortNoteDao_Impl.java
+ com.example.qsp8app.model.db.SortNoteDao_Impl
+ com.example.qsp8app.model.db.SortNoteDao_Impl$1
+ com.example.qsp8app.model.db.SortNoteDao_Impl$2
+ com.example.qsp8app.model.db.SortNoteDao_Impl$3
+ com.example.qsp8app.model.db.SortNoteDao_Impl$4
+ com.example.qsp8app.model.db.SortNoteDao_Impl$5

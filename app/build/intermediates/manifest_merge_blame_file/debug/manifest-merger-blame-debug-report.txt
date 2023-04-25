@@ -1,0 +1,343 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.qsp8app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- 外置存储Sdcard 读取权限 -->
+12-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:6:5-80
+12-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:8:5-65
+14-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:8:22-62
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:9:22-78
+16
+17    <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:26:5-77
+18-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:26:22-74
+19
+20    <application
+20-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:11:5-67:19
+21        android:name="com.example.qsp8app.application.MyApplication"
+21-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:12:9-69
+22        android:allowBackup="true"
+22-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:13:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.7.0] /Users/kongyue/.gradle/caches/transforms-3/6ad116dc3bff0a92ad422d8933a1287d/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:14:9-43
+26        android:label="@string/app_name"
+26-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:15:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:16:9-54
+28        android:supportsRtl="true"
+28-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:17:9-35
+29        android:theme="@style/AppTheme" >
+29-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:18:9-40
+30        <activity android:name="com.example.qsp8app.view.activity.DarkThemeSettingActivity" />
+30-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:19:9-95
+30-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:19:19-92
+31        <activity android:name="com.example.qsp8app.view.activity.ChangeAvatarActivity" />
+31-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:20:9-91
+31-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:20:19-88
+32        <activity android:name="com.example.qsp8app.view.activity.LockScreenSettingActivity" />
+32-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:21:9-96
+32-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:21:19-93
+33        <activity android:name="com.example.qsp8app.view.activity.EditSortNoteActivity" />
+33-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:22:9-91
+33-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:22:19-88
+34        <activity android:name="com.example.qsp8app.view.activity.BackupDataActivity" />
+34-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:23:9-89
+34-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:23:19-86
+35        <activity android:name="com.example.qsp8app.view.activity.EditNoteAttributeActivity" />
+35-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:24:9-96
+35-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:24:19-93
+36        <activity android:name="com.example.qsp8app.view.activity.TimeRemindActivity" />
+36-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:25:9-89
+36-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:25:19-86
+37        <activity android:name="com.example.qsp8app.view.activity.AddSortNoteActivity" />
+37-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:26:9-90
+37-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:26:19-87
+38        <activity android:name="com.example.qsp8app.view.activity.AddNoteActivity" />
+38-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:27:9-86
+38-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:27:19-83
+39        <activity android:name="com.example.qsp8app.view.activity.DetailActivity" />
+39-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:28:9-85
+39-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:28:19-82
+40        <activity android:name="com.example.qsp8app.view.activity.SortNoteActivity" />
+40-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:29:9-87
+40-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:29:19-84
+41        <activity
+41-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:30:9-38:20
+42            android:name="com.example.qsp8app.view.activity.HomeActivity"
+42-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:30:19-80
+43            android:exported="true"
+43-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:32:13-36
+44            android:launchMode="singleTask" >
+44-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:31:13-44
+45            <intent-filter>
+45-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:33:13-37:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:17-69
+46-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:17-77
+48-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <provider
+52-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:40:9-48:20
+53            android:name="androidx.core.content.FileProvider"
+53-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:41:13-62
+54            android:authorities="com.example.qsp8app.fileprovider"
+54-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:42:13-67
+55            android:exported="false"
+55-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:43:13-37
+56            android:grantUriPermissions="true" >
+56-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:44:13-47
+57            <meta-data
+57-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:45:13-47:54
+58                android:name="android.support.FILE_PROVIDER_PATHS"
+58-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:46:17-67
+59                android:resource="@xml/file_paths" />
+59-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:47:17-51
+60        </provider>
+61
+62        <meta-data
+62-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:50:9-52:57
+63            android:name="preloaded_fonts"
+63-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:51:13-43
+64            android:resource="@array/preloaded_fonts" />
+64-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:52:13-54
+65
+66        <service
+66-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:54:9-57:40
+67            android:name="com.example.qsp8app.service.AlertService"
+67-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:55:13-68
+68            android:exported="false"
+68-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:56:13-37
+69            android:process="system" />
+69-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:57:13-37
+70
+71        <receiver
+71-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:59:9-66:20
+72            android:name="com.example.qsp8app.service.AlertBootReceiver"
+72-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:60:13-73
+73            android:enabled="false"
+73-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:61:13-36
+74            android:exported="false" >
+74-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:62:13-37
+75            <intent-filter>
+75-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:63:13-65:29
+76                <action android:name="android.intent.action.BOOT_COMPLETED" />
+76-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:64:17-79
+76-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:64:25-76
+77            </intent-filter>
+78        </receiver>
+79
+80        <provider
+80-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:29:9-37:20
+81            android:name="leakcanary.internal.LeakCanaryFileProvider"
+81-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:30:13-70
+82            android:authorities="com.squareup.leakcanary.fileprovider.com.example.qsp8app"
+82-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:31:13-88
+83            android:exported="false"
+83-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:32:13-37
+84            android:grantUriPermissions="true" >
+84-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:33:13-47
+85            <meta-data
+85-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:45:13-47:54
+86                android:name="android.support.FILE_PROVIDER_PATHS"
+86-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:46:17-67
+87                android:resource="@xml/leak_canary_file_paths" />
+87-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:47:17-51
+88        </provider>
+89
+90        <activity
+90-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:39:9-70:20
+91            android:name="leakcanary.internal.activity.LeakActivity"
+91-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:40:13-69
+92            android:exported="true"
+92-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:41:13-36
+93            android:icon="@mipmap/leak_canary_icon"
+93-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:42:13-52
+94            android:label="@string/leak_canary_display_activity_label"
+94-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:43:13-71
+95            android:taskAffinity="com.squareup.leakcanary.com.example.qsp8app"
+95-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:44:13-76
+96            android:theme="@style/leak_canary_LeakCanary.Base" >
+96-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:45:13-63
+97            <intent-filter android:label="@string/leak_canary_import_hprof_file" >
+97-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:46:13-69:29
+97-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:46:28-81
+98                <action android:name="android.intent.action.VIEW" />
+98-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:47:17-69
+98-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:47:25-66
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:49:17-76
+100-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:49:27-73
+101                <category android:name="android.intent.category.BROWSABLE" />
+101-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:50:17-78
+101-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:50:27-75
+102
+103                <data android:scheme="file" />
+103-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+103-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:23-44
+104                <data android:scheme="content" />
+104-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+104-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:23-44
+105                <data android:mimeType="*/*" />
+105-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+106                <data android:host="*" />
+106-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+107                <data android:pathPattern=".*\\.hprof" />
+107-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+108                <data android:pathPattern=".*\\..*\\.hprof" />
+108-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+109                <data android:pathPattern=".*\\..*\\..*\\.hprof" />
+109-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+110                <data android:pathPattern=".*\\..*\\..*\\..*\\.hprof" />
+110-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+111                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.hprof" />
+111-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+112                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.hprof" />
+112-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+113                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.hprof" />
+113-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:52:17-47
+114                <!--
+115            Since hprof isn't a standard MIME type, we have to declare such patterns.
+116            Most file providers will generate URIs including their own package name,
+117            which contains `.` characters that must be explicitly escaped in pathPattern.
+118            @see https://stackoverflow.com/a/31028507/703646
+119                -->
+120            </intent-filter>
+121        </activity>
+122
+123        <activity-alias
+123-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:72:9-89:26
+124            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+124-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:73:13-77
+125            android:banner="@drawable/leak_canary_tv_icon"
+125-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:74:13-59
+126            android:enabled="@bool/leak_canary_add_launcher_icon"
+126-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:75:13-66
+127            android:exported="true"
+127-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:76:13-36
+128            android:icon="@mipmap/leak_canary_icon"
+128-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:77:13-52
+129            android:label="@string/leak_canary_display_activity_label"
+129-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:78:13-71
+130            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+130-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:79:13-79
+131            android:taskAffinity="com.squareup.leakcanary.com.example.qsp8app"
+131-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:80:13-76
+132            android:theme="@style/leak_canary_LeakCanary.Base" >
+132-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:81:13-63
+133            <intent-filter>
+133-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:82:13-88:29
+134                <action android:name="android.intent.action.MAIN" />
+134-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:17-69
+134-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:34:25-66
+135
+136                <category android:name="android.intent.category.LAUNCHER" />
+136-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:17-77
+136-->/Users/kongyue/Coursework/Value Your Time QSP8APP/app/src/main/AndroidManifest.xml:36:27-74
+137                <!-- Android TV launcher intent -->
+138                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+138-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:87:17-86
+138-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:87:27-83
+139            </intent-filter>
+140        </activity-alias>
+141
+142        <activity
+142-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:91:9-97:68
+143            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+143-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:92:13-80
+144            android:excludeFromRecents="true"
+144-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:93:13-46
+145            android:icon="@mipmap/leak_canary_icon"
+145-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:94:13-52
+146            android:label="@string/leak_canary_storage_permission_activity_label"
+146-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:95:13-82
+147            android:taskAffinity="com.squareup.leakcanary.com.example.qsp8app"
+147-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:96:13-76
+148            android:theme="@style/leak_canary_Theme.Transparent" />
+148-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:97:13-65
+149
+150        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+150-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:99:9-77
+150-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/31435a2d82328805b352447aba87330d/transformed/jetified-leakcanary-android-core-2.8.1/AndroidManifest.xml:99:19-74
+151
+152        <provider
+152-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:8:9-12:40
+153            android:name="leakcanary.internal.MainProcessAppWatcherInstaller"
+153-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:9:13-78
+154            android:authorities="com.example.qsp8app.leakcanary-installer"
+154-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:10:13-72
+155            android:enabled="@bool/leak_canary_watcher_auto_install"
+155-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:11:13-69
+156            android:exported="false" />
+156-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/924b66e6dd3e0aa2cd84ed225a78e8cd/transformed/jetified-leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:12:13-37
+157        <provider
+157-->[com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:8:9-12:40
+158            android:name="leakcanary.internal.PlumberInstaller"
+158-->[com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:9:13-64
+159            android:authorities="com.example.qsp8app.plumber-installer"
+159-->[com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:10:13-69
+160            android:enabled="@bool/leak_canary_plumber_auto_install"
+160-->[com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:11:13-69
+161            android:exported="false" />
+161-->[com.squareup.leakcanary:plumber-android:2.8.1] /Users/kongyue/.gradle/caches/transforms-3/f6da3fb0196aac1e66b4013fe09f0667/transformed/jetified-plumber-android-2.8.1/AndroidManifest.xml:12:13-37
+162
+163        <service
+163-->[androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:25:9-28:40
+164            android:name="androidx.room.MultiInstanceInvalidationService"
+164-->[androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:26:13-74
+165            android:directBootAware="true"
+165-->[androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:27:13-43
+166            android:exported="false" />
+166-->[androidx.room:room-runtime:2.4.1] /Users/kongyue/.gradle/caches/transforms-3/500dae1061b7d96f9528bff2b29c208d/transformed/room-runtime-2.4.1/AndroidManifest.xml:28:13-37
+167
+168        <provider
+168-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+169            android:name="androidx.startup.InitializationProvider"
+169-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+170            android:authorities="com.example.qsp8app.androidx-startup"
+170-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+171            android:exported="false" >
+171-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+172            <meta-data
+172-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+173                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+173-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+174                android:value="androidx.startup" />
+174-->[androidx.emoji2:emoji2:1.0.0] /Users/kongyue/.gradle/caches/transforms-3/b62effe3b726f6ca6db4a91fd34bd72a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+175            <meta-data
+175-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+176                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+176-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+177                android:value="androidx.startup" />
+177-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kongyue/.gradle/caches/transforms-3/43b5ac8e9192bfb7ecfbceb8b9a83465/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+178        </provider>
+179    </application>
+180
+181</manifest>
